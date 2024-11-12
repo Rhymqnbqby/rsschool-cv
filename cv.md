@@ -1,7 +1,7 @@
-#Sergey Ivashchenko
+#__Sergey Ivashchenko__
 
-##Contacts
-**Location:** Saint-Petersburg, Russia
-**Phone:** +7 921 551-13-16
-**Email:** graffiti211@yandex.ru
-**GitHub:** Rhymqnbqby
+##__Contacts__
+**__Location:__** Saint-Petersburg, Russia
+**__Phone:__** +7 921 551-13-16
+**__Email:__** graffiti211@yandex.ru
+**__GitHub:__** Rhymqnbqby
