@@ -30,3 +30,13 @@ Studying at RS School I'd like to meet new people, business partners and even fr
 * Illustrator
 * Figma
  
+## Code Example
+
+``` 
+// Watchout! Further is really hard code!!!
+
+function hardFunction(a, b) {
+    return a + b; 
+}
+
+```
