@@ -1,7 +1,16 @@
-#__Sergey Ivashchenko__
+[rsschool-cv](https://Rhymqnbqby.github.io/rsschool-cv/) <br>
+*ссылка на GitHub Page* <br>
 
-##__Contacts__
-**__Location:__** Saint-Petersburg, Russia
-**__Phone:__** +7 921 551-13-16
-**__Email:__** graffiti211@yandex.ru
-**__GitHub:__** Rhymqnbqby
+***
+
+# Sergey Ivashchenko <br>
+
+***
+
+## Contacts
+**Location:** Saint-Petersburg, Russia <br>
+**Phone:** +7 921 551-13-16 <br>
+**Email:** graffiti211@yandex.ru <br>
+**GitHub:** Rhymqnbqby <br>
+
+***
