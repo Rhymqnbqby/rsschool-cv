@@ -33,10 +33,21 @@ Studying at RS School I'd like to meet new people, business partners and even fr
 ## Code Example
 
 ``` 
-// Watchout! Further is really hard code!!!
+// Watchout! Further is a really hard code!!!
 
 function hardFunction(a, b) {
     return a + b; 
 }
 
 ```
+
+## Education
+University: Peter the Great St. Petersburg Polytechnic University.<br>
+Accounting. Analysis. Аudit.<br>
+
+Courses:<br>
+HTML Academy<br>
+
+## English
+Russian. Excellent speaker, because of native as you can guess.
+English. Intermediate - upper intermediate. Not so nice, but...
