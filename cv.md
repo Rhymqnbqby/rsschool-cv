@@ -10,6 +10,7 @@
 **Phone:** +7 921 551-13-16 <br>
 **Email:** graffiti211@yandex.ru <br>
 **GitHub:** Rhymqnbqby <br>
+**Discord nickname:** Rhyman_baby (@Rhymqnbqby)<br>
 
 ***
 
@@ -36,7 +37,7 @@ Studying at RS School I'd like to meet new people, business partners and even fr
 // Watchout! Further is a really hard code!!!
 
 function hardFunction(a, b) {
-    return a + b; 
+    return a * b; 
 }
 
 ```
