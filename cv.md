@@ -42,12 +42,12 @@ function hardFunction(a, b) {
 ```
 
 ## Education
-University: Peter the Great St. Petersburg Polytechnic University.<br>
+**University:** Peter the Great St. Petersburg Polytechnic University.<br>
 Accounting. Analysis. Аudit.<br>
 
-Courses:<br>
+**Courses:**<br>
 HTML Academy<br>
 
 ## English
-Russian. Excellent speaker, because of native as you can guess.
-English. Intermediate - upper intermediate. Not so nice, but...
+**Russian.** Excellent speaker, because of native as you can guess.<br>
+**English.** Intermediate - upper intermediate. Not so nice, but...
