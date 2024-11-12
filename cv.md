@@ -18,5 +18,15 @@ I'm 34. I like people with sense of humor, tasty food, team sports and many othe
 I've started learning programming to test myself and try to find out some useful things for my projects. 
 Studying at RS School I'd like to meet new people, business partners and even friends. <br>
 
-> So, lets get started! <br>
+> So, let's get started! <br>
+
+## Skills
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+* Photoshop
+* Illustrator
+* Figma
  
